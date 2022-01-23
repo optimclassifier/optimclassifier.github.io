@@ -1,9 +1,9 @@
 # --- Serving options --- #
 # If you are building a GitHub project page then use these settings:
 # url is the full website URL
-url: "http://economistgame.github.io/OptimClassifier"
+url: "http://optimclassifier.github.io/"
 # baseurl is the website's URL without the hostname
-baseurl: "/OptimClassifier"
+baseurl: ""
 
 # Name of website
 title: OptimClassifier
@@ -26,7 +26,7 @@ navbar-links:
 
 # --- Footer options --- #
 author:
-  name: Agustín Pérez-Torregrosa
+  name: OptimClassifier
   email: "agustin.perez01@goumh.umh.es"
   facebook: OptimClassifieR
   github: economistgame
