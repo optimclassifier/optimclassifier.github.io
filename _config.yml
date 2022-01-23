@@ -97,3 +97,5 @@ prose:
     - /css
     - /img
     - /js
+
+theme: jekyll-theme-cayman
